@@ -753,10 +753,10 @@ We welcome contributions from the community! Please follow these guidelines:
 - [GitHub](https://github.com/epicstarter) - Development
 
 ### Professional Support
-- Technical Support: tech@epicstarter.io
-- Security Issues: security@epicstarter.io
-- Business Inquiries: business@epicstarter.io
-- Partnership: partners@epicstarter.io
+- Technical Support: tech@epic-chain.org
+- Security Issues: security@epic-chain.org
+- Business Inquiries: business@epic-chain.org
+- Partnership: partners@epic-chain.org
 
 ## 📄 License
 

@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/security/Pausable.sol";
 import "@openzeppelin/contracts/utils/cryptography/ECDSA.sol";
 import "@openzeppelin/contracts/utils/cryptography/EIP712.sol";
 import "@openzeppelin/contracts/utils/cryptography/SignatureChecker.sol";
-import "../interfaces/ISecurityManager.sol";
+import "../../interfaces/ISecurityManager.sol";
 
 /**
  * @title AdvancedCryptographicSecurityManager

@@ -552,13 +552,13 @@ const isSecure = assessment.riskScore < 5000;
 ## 📞 Support
 
 ### Technical Support
-- **Email**: security@epicstarter.io
+- **Email**: security@epic-chain.org
 - **Discord**: #security-support
 - **GitHub**: Issues and discussions
 - **Documentation**: Comprehensive guides
 
 ### Security Reporting
-- **Vulnerability Reports**: security-reports@epicstarter.io
+- **Vulnerability Reports**: security-reports@epic-chain.org
 - **Bug Bounty**: Up to $100,000 rewards
 - **Responsible Disclosure**: 90-day disclosure policy
 - **Emergency Contact**: 24/7 security hotline
