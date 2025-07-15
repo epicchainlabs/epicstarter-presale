@@ -322,4 +322,4 @@ Before mainnet deployment:
 
 **⚠️ Important Security Note**: Never commit your `.env` file or share your private keys. Always use test networks before mainnet deployment.
 
-**Built with ❤️ by EpicChainLabs Team**
+**Built with ❤️ by EpicChain Labs Team**
